@@ -13,7 +13,7 @@ A modern AI-powered analytics dashboard built with React, TypeScript, and HeroUI
 - **Collapsible Sidebar** - Space-efficient navigation system
 - **Assistant Selector** - Multiple AI assistant configurations
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React** - UI framework
 - **TypeScript** - Type safety
@@ -22,7 +22,7 @@ A modern AI-powered analytics dashboard built with React, TypeScript, and HeroUI
 - **Tailwind CSS** - Styling
 - **Framer Motion** - Animations
 
-## 📦 Installation
+## Installation
 
 1. Clone the repository:
 ```bash
@@ -42,7 +42,7 @@ npm run dev
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
-## 🏗️ Project Structure
+## Project Structure
 ```
 src/
 ├── components/
@@ -57,7 +57,7 @@ src/
 └── types/              # TypeScript types
 ```
 
-## 🎨 Design Implementation
+## Design Implementation
 
 This project is based on the Figma design provided by Futuretail.ai. Key implementation highlights:
 
@@ -67,14 +67,14 @@ This project is based on the Figma design provided by Futuretail.ai. Key impleme
 - Custom animations matching the design specifications
 - Optimized component architecture for maintainability
 
-## 🔧 Available Scripts
+## Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 📄 License
+## License
 
 This project was created as part of the Futuretail.ai Frontend Developer coding challenge.
 
